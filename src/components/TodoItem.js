@@ -20,4 +20,4 @@ class TodoItem extends Component {
     }
 }
 
-export default TodoItem
+export default TodoItem;
